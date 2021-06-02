@@ -1,0 +1,6 @@
+node_modules
+cfg.json
+
+#Hardhat files
+cache
+artifacts
